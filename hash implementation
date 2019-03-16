@@ -5,7 +5,7 @@ mono-r+mono
 keydb $10
 //0 add integer txt 25
 
-//this is a comment and so is the line above with two slashes to add integers you just type add keydb $#
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#
 
 mono-r+mono ht32
 //this is an example stopping it
