@@ -1,11 +1,7 @@
 mono-r+mono
-//sha2999999 has 9999999999 keys
-//add on the text "ht32" to stop the hash
+
 
 keydb $10
 //0 add integer txt 25
 
-//this is a comment but the line above with two slashes is code to add integers you just type add keydb $# where # is a number of keys
-
 mono-r+mono ht32
-//this is an example stopping it
